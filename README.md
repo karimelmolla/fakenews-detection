@@ -1,4 +1,4 @@
-Factual Eye - Fake News Detection
+#Factual Eye - Fake News Detection
 "Factual Eye" is a Fake News Detection mobile application developed as our graduation project. This repository hosts the codebase for the application, including machine learning models, sentiment analysis, Flask API, and integration with the GNews API.
 
 Overview
